@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: 
-icon: fa-home
+icon: "/assets/images/danaIcon.jpg"
 order: 1
 ---
